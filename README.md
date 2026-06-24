@@ -16,7 +16,7 @@ AI Engineer based in Dubai, UAE. I work with machine learning, deep learning, co
 ## Projects
 
 **[Smart Video Analytics System](https://github.com/Goutham204/Smart-Video-Analytics-System)**  
-Real-time people counting and crowd monitoring using YOLOv8-Nano. Includes IN/OUT line-crossing detection, ROI-based alerts, and a Streamlit dashboard with CSV export. Optimized for CPU-only environments.
+Serverless computer vision system deployed on AWS (Lambda, S3, DynamoDB, CloudFront) using YOLOv8 for real-time people counting and crowd alerts. Built a custom centroid-tracking algorithm for accurate IN/OUT line-crossing analytics. Supports live webcam and video upload.
 
 **[Customer Complaint Analyzer](https://github.com/Goutham204/Customer-Complaint-Analyzer-System)**  
 NLP-based complaint classification using an LSTM model with urgency detection and root-cause analysis. Flask REST API for real-time predictions and a Streamlit frontend for single and bulk CSV input.
@@ -43,5 +43,5 @@ Built and optimized ML/DL models for classification and regression tasks. Improv
 ## Contact
 
 - Email: gouthamdm204@gmail.com  
-- LinkedIn: [linkedin.com/in/vishnugoutham](https://linkedin.com/in/vishnugoutham)  
+- LinkedIn: [linkedin.com/in/vishnugoutham](https://linkedin.com/in/vishnugoutham) 
 - Location: Dubai, UAE — available immediately (Visit Visa)
