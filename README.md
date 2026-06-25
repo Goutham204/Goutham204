@@ -36,6 +36,6 @@ Built and optimized ML/DL models for classification and regression tasks. Improv
 ### Contact
 
 - Email: gouthamdm204@gmail.com
-- LinkedIn: linkedin.com/in/vishnugoutham
-- Portfolio: https://d1x4qk682zvr1a.cloudfront.net
+- LinkedIn: [linkedin.com/in/vishnugoutham](https://www.linkedin.com/in/vishnugoutham/)
+- Portfolio: [d1x4qk682zvr1a.cloudfront.net](https://d1x4qk682zvr1a.cloudfront.net)
 - Location: Dubai, UAE — available immediately (Visit Visa)
