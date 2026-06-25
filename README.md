@@ -11,7 +11,7 @@ AI Engineer based in Dubai, UAE. I work with machine learning, deep learning, co
 
 ### Projects
 
-**[Smart Video Analytics System](https://github.com/Goutham204/Smart-Video-Analytics-System)**
+**[Smart Video Analytics System](https://github.com/Goutham204/Smart-Video-Analytics)**
 Serverless computer vision system deployed on AWS (Lambda, S3, DynamoDB, CloudFront) using YOLOv8 for real-time people counting and crowd alerts. Built a custom centroid-tracking algorithm from scratch for accurate IN/OUT line-crossing analytics. Supports live webcam capture and video upload.
 Live demo: https://d1x4qk682zvr1a.cloudfront.net
 
