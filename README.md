@@ -14,15 +14,15 @@ AI Engineer based in Dubai, UAE. I work with machine learning, deep learning, co
 
 **[Smart Video Analytics System](https://github.com/Goutham204/Smart-Video-Analytics)**
 Serverless computer vision system deployed on AWS (Lambda, S3, DynamoDB, CloudFront) using YOLOv8 for real-time people counting and crowd alerts. Built a custom centroid-tracking algorithm from scratch for accurate IN/OUT line-crossing analytics. Supports live webcam capture and video upload.
-- Live demo: https://d1x4qk682zvr1a.cloudfront.net
+**🔗 Live demo:** https://d1x4qk682zvr1a.cloudfront.net
 
 **[Customer Complaint Analyzer](https://github.com/Goutham204/Customer-Complaint-Analyzer-System)**
 NLP-based complaint classification using an LSTM model with urgency detection and root-cause analysis. Flask REST API for real-time predictions and a Streamlit frontend for single and bulk CSV input. 
-- Live demo: https://vishnugoutham-complaint-analyzer-system.streamlit.app
+**🔗 Live demo:** https://vishnugoutham-complaint-analyzer-system.streamlit.app
 
 **[AutoML Web Application](https://github.com/Goutham204/Smart_ML)**
 No-code ML platform built with Streamlit and Scikit-learn. Supports classification, regression, clustering, and PCA with automated EDA and model evaluation — no coding required from the user.
-- Live Demo: https://vishnugoutham-automl.streamlit.app
+**🔗 Live demo:** https://vishnugoutham-automl.streamlit.app
 
 ### Experience
 
