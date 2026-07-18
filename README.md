@@ -12,7 +12,7 @@ AI Engineer based in Dubai, UAE. I work with machine learning, deep learning, co
 
 ### Projects
 
-**[Multi AI-Agent Service](https://github.com/Goutham204/Smart_ML)**
+**[Multi AI-Agent Service](https://github.com/Goutham204/Multi-AI-Agent-Service)**
 A production multi-agent AI platform integrating Groq LLM for financial loan processing and customer support, built on a serverless AWS backend (Lambda, API Gateway, DynamoDB). Includes a Financial Agent for eligibility assessment, decimal-precision calculations, and offer generation, and a Support Agent for order lookup, refund validation, and ticket routing, achieving <500ms response times and a 100% success rate.
 
 **🔗 Live demo:** https://d2wrk5t4qmgduv.cloudfront.net
