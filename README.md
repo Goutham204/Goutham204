@@ -30,6 +30,7 @@ NLP-based complaint classification using an LSTM model with urgency detection an
 ### Experience
 
 **Junior AI Developer — Soften Technologies** (Apr 2024 – Sep 2024)
+
 Built and optimized ML/DL models for classification and regression tasks. Improved model accuracy by 30% through feature engineering and hyperparameter tuning. Reduced training time by 40% via pipeline optimization. Deployed models via Flask APIs and Streamlit apps.
 
 ### Education
